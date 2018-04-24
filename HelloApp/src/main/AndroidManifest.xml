@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="es.ulpgc.eite.clean">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_hello_app"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:name=".app.MediatorApp"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".hello.HelloView"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".bye.ByeView"
+            android:label="@string/title_activity_bye"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>

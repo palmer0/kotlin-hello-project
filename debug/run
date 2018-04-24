@@ -1,0 +1,8 @@
+
+# Para ejecutar este script abre un terminal (View->Tool Windows-> Terminal)
+# y ejecuta este script mediante:
+#   . run
+# o ejecutando directamente con la orden:
+#   run
+
+python filter-android-log.py logcat.txt > logcat-output.txt

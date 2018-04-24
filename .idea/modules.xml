@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" filepath="$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloApp/HelloApp.iml" filepath="$PROJECT_DIR$/HelloApp/HelloApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-hello-project.iml" filepath="$PROJECT_DIR$/kotlin-hello-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockito-all-1.9.5/mockito-all-1.9.5.iml" filepath="$PROJECT_DIR$/mockito-all-1.9.5/mockito-all-1.9.5.iml" />
+    </modules>
+  </component>
+</project>

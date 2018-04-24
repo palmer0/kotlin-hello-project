@@ -1,0 +1,86 @@
+01-19 12:33:24.240 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling onCreate()
+01-19 12:33:24.311 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onCreate()
+01-19 12:33:24.321 2700-2700/es.ulpgc.eite.clean.hello D/HelloModel: calling onCreate()
+01-19 12:33:24.321 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onCreate()
+01-19 12:33:24.321 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling settingInitialState()
+                                                                         
+                                                                    
+
+
+
+01-19 12:33:36.974 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onSayHelloButtonClicked()
+01-19 12:33:36.974 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling showProgressIndicator()
+01-19 12:33:36.974 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling startHelloGetMessageTask()
+01-19 12:33:36.974 2700-2700/es.ulpgc.eite.clean.hello D/HelloModel: calling startDelayedTask()
+01-19 12:33:40.745 2700-2700/es.ulpgc.eite.clean.hello D/HelloModel: calling onChangingConfiguration()
+01-19 12:33:40.745 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onChangingConfiguration()
+01-19 12:33:40.745 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onDestroy()
+01-19 12:33:40.788 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onCreate()
+01-19 12:33:40.806 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onResume()
+01-19 12:33:40.806 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onHelloScreenResumed()
+01-19 12:33:40.806 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling settingInitialState()
+01-19 12:33:40.806 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling settingUpdatedState()
+01-19 12:33:40.806 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling showProgressIndicator()
+01-19 12:33:42.006 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onHelloGetMessageTaskFinished()
+01-19 12:33:42.007 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling hideProgressIndicator()
+
+
+01-19 12:33:48.440 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onGoToByeButtonClicked()
+01-19 12:33:48.440 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling goToByeScreen()
+01-19 12:33:48.440 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling savingHelloToByeState()
+01-19 12:33:48.440 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling startingByeScreen()
+01-19 12:33:48.522 2700-2700/es.ulpgc.eite.clean.hello D/ByeView: calling onCreate()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/ByeModel: calling onCreate()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling onCreate()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling startingByeScreen()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling settingHelloToByeState()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling removingHelloToByeState()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling onByeScreenStarted()
+01-19 12:33:48.527 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling settingInitialState()
+01-19 12:33:48.528 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling settingPropagatedState()
+
+
+01-19 12:33:53.607 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling showProgressIndicator()
+01-19 12:33:53.608 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling startByeGetMessageTask()
+01-19 12:33:53.608 2700-2700/es.ulpgc.eite.clean.hello D/ByeModel: calling startDelayedTask()
+01-19 12:33:57.341 2700-2700/es.ulpgc.eite.clean.hello D/ByeModel: calling onChangingConfiguration()
+01-19 12:33:57.342 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling onChangingConfiguration()
+01-19 12:33:57.342 2700-2700/es.ulpgc.eite.clean.hello D/ByeView: calling onDestroy()
+01-19 12:33:57.393 2700-2700/es.ulpgc.eite.clean.hello D/ByeView: calling onCreate()
+01-19 12:33:57.400 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling onResume()
+01-19 12:33:57.400 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling settingInitialState()
+01-19 12:33:57.401 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling settingUpdatedState()
+01-19 12:33:57.401 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling showProgressIndicator()
+01-19 12:33:57.401 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling settingPropagatedState()
+01-19 12:33:58.681 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling onByeGetMessageTaskFinished()
+01-19 12:33:58.681 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling hideProgressIndicator()
+
+
+
+01-19 12:34:10.707 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling backToHelloScreen()
+01-19 12:34:10.707 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling savingByeToHelloState()
+01-19 12:34:10.707 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling finishingByeScreen()
+01-19 12:34:10.739 2700-2700/es.ulpgc.eite.clean.hello D/HelloModel: calling onChangingConfiguration()
+01-19 12:34:10.739 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onChangingConfiguration()
+01-19 12:34:10.739 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onDestroy()
+01-19 12:34:11.067 2700-2700/es.ulpgc.eite.clean.hello D/HelloView: calling onCreate()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onResume()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling resumingHelloScreen()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling restoringByeToHelloState()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/AppMediator: calling removingByeToHelloState()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onHelloScreenResumed()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling settingInitialState()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling settingUpdatedState()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling startHelloGetMessageTask()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling onHelloGetMessageTaskFinished()
+01-19 12:34:11.070 2700-2700/es.ulpgc.eite.clean.hello D/HelloPresenter: calling settingPropagatedState()
+01-19 12:34:11.874 2700-2700/es.ulpgc.eite.clean.hello D/ByeModel: calling onDestroy()
+01-19 12:34:11.874 2700-2700/es.ulpgc.eite.clean.hello D/ByePresenter: calling onDestroy()
+01-19 12:34:11.874 2700-2700/es.ulpgc.eite.clean.hello D/ByeView: calling onDestroy()
+
+
+
+
+
+
+
